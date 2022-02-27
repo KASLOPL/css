@@ -1,0 +1,39 @@
+p#pogrubienie_bojko
+{
+font-size: 47px;
+color: #8453BC;
+}
+
+p#pochylona_bojko
+{
+font-size: 15pt;
+color: #E8B767
+}
+
+p#index_gorny_bojko
+{
+font-size: 0,9cm;
+color: #988517;
+}
+
+p#index_dolny_bojko
+{
+font-size: 2,1cm;
+color: rgb(20%,92%,87%);
+}
+
+p#mono_bojko
+{
+font-size: 32px;
+color: #18D567;
+}
+
+p#powiekszenie_bojko
+{
+color: #523599;
+}
+
+p#pomniejszenie_bojko
+{
+color: rgb(71%,60%,21%);
+}
