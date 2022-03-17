@@ -1,0 +1,95 @@
+div#zdanie1_akapit1
+{
+	color:#FF0000 ;
+	font-style: oblique;
+	font-weight: 600;
+	font-size: xx-large;
+	font-family: Georgia;
+	line-height: 12mm;
+	word-spacing: 9px;
+	letter-spacing: 3ex;
+	text-indent: 28mm;
+	text-align: right;
+	text-transform: uppercase;
+	
+
+}
+
+div#zdanie2_akapit1
+{
+	color:#8B0000 ;
+	font-weight: 800;
+	font-size: xx-small;
+	font-family: Bodoni;
+	line-height: 12mm;
+	word-spacing: 9px;
+	letter-spacing: 3ex;
+	text-indent: 28mm;
+	text-decoration: overline;
+	text-align: right;
+	
+
+}
+
+div#zdanie3_akapit1
+{
+	color:#ffa07a ;
+	font-weight: 400;
+	font-size: medium;
+	font-family: Times New Roman;
+	line-height: 12mm;
+	word-spacing: 9px;
+	letter-spacing: 3ex;
+	text-indent: 28mm;
+	font-variant: small-caps;
+	text-align: right;
+	
+
+}
+
+div#zdanie1_akapit2
+{
+	color:#ff4500 ;
+	font-weight: 800;
+	font-size: 1in;
+	font-family: Arial;
+	line-height: 18mm;
+	word-spacing: 13pt;
+	letter-spacing: 3mm;
+	text-indent: 3cm;
+	font-variant: small-caps;
+	text-align: center;
+	
+
+}
+
+div#zdanie2_akapit2
+{
+	color:#ff8c00 ;
+	font-weight: 300;
+	font-size: 31px;
+	font-family: Verdana;
+	line-height: 18mm;
+	word-spacing: 13pt;
+	letter-spacing: 3mm;
+	text-indent: 3cm;
+	text-align: center;
+	text-decoration: line-through;
+	text-transform: capitalize;
+
+}
+
+div#zdanie3_akapit2
+{
+	color:#ffa500 ;
+	font-weight: 600;
+	font-size: 4em;
+	font-family: Univers;
+	line-height: 18mm;
+	word-spacing: 13pt;
+	letter-spacing: 3mm;
+	text-indent: 3cm;
+	text-align: center;
+	font-style: oblique;
+
+}
