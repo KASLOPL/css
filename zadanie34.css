@@ -1,0 +1,10 @@
+H3 { 
+ width: 400pt;
+ height:30mm;
+ margin-left : 600px;
+ border: 7px double gray;
+ background: #c0c0c0;
+ color: black;
+ font-size: 3mm;
+
+ }
